@@ -72,8 +72,8 @@
         layer_4 {
             bindings = <
 &trans  &trans  &trans      &trans            &trans       &trans                        &trans        &trans  &trans  &trans  &trans  &trans
-&trans  &kp L   &trans      &trans            &trans       &trans                        &kp W         &kp S   &trans  &trans  &kp G   &trans
-&trans  &trans  &trans      &mt LEFT_SHIFT K  &mt LCTRL J  &trans        &trans  &trans  &trans        &trans  &trans  &trans  &trans  &trans
+&trans  &trans  &trans      &trans            &trans       &trans                        &kp W         &kp S   &trans  &trans  &kp G   &trans
+&trans  &kp L   &trans      &mt LEFT_SHIFT K  &mt LCTRL J  &trans        &trans  &trans  &trans        &trans  &trans  &trans  &trans  &trans
 &trans  &kp H   &kp PERIOD  &trans            &trans       &kp UP_ARROW  &trans  &trans  &kp UP_ARROW  &trans  &trans  &trans  &trans  &trans
 &trans  &trans  &trans      &trans            &trans       &trans        &trans  &trans  &trans        &trans  &trans  &trans  &trans  &trans
             >;
