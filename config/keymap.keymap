@@ -27,7 +27,7 @@
 
         left_enter {
             bindings = <&kp ENTER>;
-            key-positions = <24 25>;
+            key-positions = <25 26>;
         };
     };
 
