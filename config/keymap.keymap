@@ -24,6 +24,11 @@
             bindings = <&mkp MB2>;
             key-positions = <34 35>;
         };
+
+        left_enter {
+            bindings = <&kp ENTER>;
+            key-positions = <24 25>;
+        };
     };
 
     keymap {
