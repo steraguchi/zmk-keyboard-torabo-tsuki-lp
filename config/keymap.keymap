@@ -29,6 +29,16 @@
             bindings = <&kp ENTER>;
             key-positions = <26 27>;
         };
+
+        we-q {
+            bindings = <&kp Q>;
+            key-positions = <14 15>;
+        };
+
+        io-p {
+            bindings = <&kp P>;
+            key-positions = <21 20>;
+        };
     };
 
     keymap {
